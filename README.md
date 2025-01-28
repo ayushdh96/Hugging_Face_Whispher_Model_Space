@@ -1,2 +1,12 @@
-# Hugging_Face_Whispher_Model_Space
-This is the basic whisper model hosted on hugging face space
+---
+title: Openai Whisper Small.en
+emoji: 🐠
+colorFrom: red
+colorTo: purple
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
